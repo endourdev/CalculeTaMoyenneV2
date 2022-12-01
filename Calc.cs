@@ -8,11 +8,13 @@ using System.Threading.Tasks;
 
 namespace CalculTaMoyenne
 {
-    class main
+    class Calc
     {
         static void Main(string[] args)
 
         {
+            string title = "Calcule Ta Moyenne";
+            Console.Title = title;
             Send();
 
 
