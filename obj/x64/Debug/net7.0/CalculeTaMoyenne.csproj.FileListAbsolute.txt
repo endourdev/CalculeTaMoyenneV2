@@ -1,0 +1,15 @@
+C:\Users\ouaou\Documents\C#\Code\Calcule Ta Moyenne\CalculeTaMoyenne\bin\x64\Debug\net7.0\CalculeTaMoyenne.exe
+C:\Users\ouaou\Documents\C#\Code\Calcule Ta Moyenne\CalculeTaMoyenne\bin\x64\Debug\net7.0\CalculeTaMoyenne.deps.json
+C:\Users\ouaou\Documents\C#\Code\Calcule Ta Moyenne\CalculeTaMoyenne\bin\x64\Debug\net7.0\CalculeTaMoyenne.runtimeconfig.json
+C:\Users\ouaou\Documents\C#\Code\Calcule Ta Moyenne\CalculeTaMoyenne\bin\x64\Debug\net7.0\CalculeTaMoyenne.dll
+C:\Users\ouaou\Documents\C#\Code\Calcule Ta Moyenne\CalculeTaMoyenne\bin\x64\Debug\net7.0\CalculeTaMoyenne.pdb
+C:\Users\ouaou\Documents\C#\Code\Calcule Ta Moyenne\CalculeTaMoyenne\obj\x64\Debug\net7.0\CalculeTaMoyenne.csproj.AssemblyReference.cache
+C:\Users\ouaou\Documents\C#\Code\Calcule Ta Moyenne\CalculeTaMoyenne\obj\x64\Debug\net7.0\CalculeTaMoyenne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ouaou\Documents\C#\Code\Calcule Ta Moyenne\CalculeTaMoyenne\obj\x64\Debug\net7.0\CalculeTaMoyenne.AssemblyInfoInputs.cache
+C:\Users\ouaou\Documents\C#\Code\Calcule Ta Moyenne\CalculeTaMoyenne\obj\x64\Debug\net7.0\CalculeTaMoyenne.AssemblyInfo.cs
+C:\Users\ouaou\Documents\C#\Code\Calcule Ta Moyenne\CalculeTaMoyenne\obj\x64\Debug\net7.0\CalculeTaMoyenne.csproj.CoreCompileInputs.cache
+C:\Users\ouaou\Documents\C#\Code\Calcule Ta Moyenne\CalculeTaMoyenne\obj\x64\Debug\net7.0\CalculeTaMoyenne.dll
+C:\Users\ouaou\Documents\C#\Code\Calcule Ta Moyenne\CalculeTaMoyenne\obj\x64\Debug\net7.0\refint\CalculeTaMoyenne.dll
+C:\Users\ouaou\Documents\C#\Code\Calcule Ta Moyenne\CalculeTaMoyenne\obj\x64\Debug\net7.0\CalculeTaMoyenne.pdb
+C:\Users\ouaou\Documents\C#\Code\Calcule Ta Moyenne\CalculeTaMoyenne\obj\x64\Debug\net7.0\CalculeTaMoyenne.genruntimeconfig.cache
+C:\Users\ouaou\Documents\C#\Code\Calcule Ta Moyenne\CalculeTaMoyenne\obj\x64\Debug\net7.0\ref\CalculeTaMoyenne.dll

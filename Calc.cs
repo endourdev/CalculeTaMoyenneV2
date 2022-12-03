@@ -7,27 +7,34 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace CalculTaMoyenne
+
+
 {
     class Calc
+    
     {
         static void Main(string[] args)
 
         {
-            string title = "Calcule Ta Moyenne";
+            // Création du titre.
+            string title = "Calcule Ta Moyenne V0.2";
             Console.Title = title;
+            // Envoie de la fonction principale.
             Send();
 
-
+            // Création de la fonction générale.
+            // Les boucles ne sont pas possibles ici.
             void Send () {
+                Console.ReadLine();
                 Console.WriteLine("Si vous n'écrivez pas de valeur correct l'application se fermera.");
-                Console.ReadKey();
+                Console.ReadLine();
                 Console.WriteLine("Choissisez votre première note");
                 string noteune = Console.ReadLine();
                 int resultun = int.Parse(noteune);
                 Console.WriteLine("Choissisez votre deuxième note");
                 string notedeux = Console.ReadLine();
                 int resultdeux = int.Parse(notedeux);
-                Console.WriteLine("Choissisez votre troisième note");
+                Console.WriteLine("Choissisez votre note");
                 string notetrois = Console.ReadLine();
                 int resulttrois = int.Parse(notetrois);
                 Console.WriteLine("Choissisez votre quatrième note");
@@ -59,7 +66,14 @@ namespace CalculTaMoyenne
                 int resultdouze = int.Parse(notedouze);
                 int total = resultun + resultdeux + resultquatre + resultcinq + resultsix + resultsept + resulthuit + resultneuf + resultdix + resultonze + resultdouze;
                 int nbnote = 11;
-                Console.WriteLine("Votre moyenne est de : " + total / nbnote + "/20");
+                int all = total / nbnote;
+                Console.WriteLine("Votre moyenne est de : " + all + "/20");
+                if (all >= 20)
+                {
+                    Console.ReadLine();
+                    Console.WriteLine("Vous avez écrit des valeur supérieur à 20 !");
+                }
+                Console.ReadKey();
                 Console.WriteLine("Appuyez sur \"Entrez\" pour quittez l'application.");
                 Console.ReadKey();
             }
