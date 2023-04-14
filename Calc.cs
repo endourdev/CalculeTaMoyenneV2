@@ -17,7 +17,7 @@ namespace CalculTaMoyenne
 
         {
             // Création du titre.
-            string title = "Calcule Ta Moyenne V0.2";
+            string title = "Calcule Ta Moyenne V0.3";
             Console.Title = title;
             // Envoie de la fonction principale.
             Send();
